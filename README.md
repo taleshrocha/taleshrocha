@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,10 +16,8 @@ Here are some ideas to get you started:
 
 # Tales Rocha
 
-<!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
-
 <p>
-  <a href="mailto:taleshrocha@gmail.com">
+  <a href="mailto:taleshrochaz@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     /> </a
@@ -29,7 +26,8 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
+- 🌱 I’m currently studying Computer Science at [IMD](https://www.ufrn.br/) and my beloved [DIMAP] (https://dimap.ufrn.br/).
+- ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
 - ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
 
 <h3>💻 Languages and Tools:</h3>
