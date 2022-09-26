@@ -29,11 +29,8 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
 - 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
-- 💬 Ask me about technologies, finance, marketing and business.
-- ⚡ Interested in web development (React.js, Next.js and Express.js) and mobile app development (React Native and Flutter).
-- 🎮 Fun fact: I like to study ux writing and ui design in my free time.
+- ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
 
 <h3>💻 Languages and Tools:</h3>
 <div align="center">
@@ -99,6 +96,13 @@ Here are some ideas to get you started:
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  /></code>
+    <code
+    ><img
+      alt="java-icon"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   /></code>
     <code
     ><img
