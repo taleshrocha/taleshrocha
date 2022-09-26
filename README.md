@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-- 🌱 I’m currently studying Computer Science at [IMD](https://www.ufrn.br/) and my beloved [DIMAP] (https://dimap.ufrn.br/).
+- 🌱 I’m currently studying Computer Science at [IMD](https://www.ufrn.br/) and my beloved [DIMAP](https://dimap.ufrn.br/).
 - ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
 - ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
 
