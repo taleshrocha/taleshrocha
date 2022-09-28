@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello world! I'm Tales Rocha!
+# Hello, world! I'm Tales Rocha!
 
 <p>
   <a href="mailto:taleshrochaz@gmail.com">
