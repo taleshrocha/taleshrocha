@@ -39,6 +39,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   />
   </code>
+  
   <code>
     <img
       alt="CSS3-icon"
@@ -47,30 +48,34 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
   </code>
-  <code
-    ><img
+  
+  <code>
+    <img
       alt="javascript-icon"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   />
   </code>
-  <code
-    ><img
+  
+  <code>
+    <img
       alt="typescript-icon"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   />
   </code>
-  <code
-    ><img
+  
+  <code>
+    <img
       alt="nodejs-icon"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
   />
   </code>
+  
     <code>
       <img
       alt="reactjs-icon"
@@ -79,6 +84,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
   </code>
+  
   <code>
     <img
       alt="linux-icon"
@@ -87,6 +93,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
   />
   </code>
+  
     <code>
       <img
       alt="java-icon"
@@ -95,6 +102,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   />
   </code>
+  
     <code>
       <img
       alt="cpp-icon"
