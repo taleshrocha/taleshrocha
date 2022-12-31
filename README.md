@@ -100,7 +100,7 @@
   <div align="center">
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5&hide=jupyternotebook, makefile"
         />
     <img
         height="180em"
