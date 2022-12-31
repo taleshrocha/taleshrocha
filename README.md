@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### About me
 
 - 🌱 I’m currently studying Computer Science at [IMD](https://www.ufrn.br/) and in [DIMAP](https://dimap.ufrn.br/).
-- ⚡ Interested in web development (React.js and Next.js) and mobile app development (React Native).
+- ⚡ Interested in web front-end development and back-end development.
 
 <h3>💻 Languages and Tools:</h3>
 <div align="center">
@@ -59,20 +59,13 @@ Here are some ideas to get you started:
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   /></code>
-  <!--<code
+  <code
     ><img
       alt="nodejs-icon"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  /></code>--!>
-  <!--<code
-    ><img
-      alt="mysql-icon"
-      height="25"
-      width="25"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-  /></code>--!>
+  /></code>
     <code
     ><img
       alt="reactjs-icon"
@@ -80,13 +73,6 @@ Here are some ideas to get you started:
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   /></code>
-  <!--<code
-  ><img 
-    alt="flutter-icon"
-    height="25"
-    width="25"
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"
-  /></code>--!>
   <code
     ><img
       alt="linux-icon"
@@ -125,15 +111,3 @@ Here are some ideas to get you started:
 <blockquote>
   <p>"The roots of education are bitter, but the fruit is sweet." ~ Aristotle.</p>
 </blockquote>
-
-<!-- <p style="align=center;"> -->
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!-- </p> -->
-<!-- &theme=material-palenight -->
-<!-- &theme=gotham -->
-
-<!-- I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
-
- 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
-
-:books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). -->
