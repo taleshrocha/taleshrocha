@@ -30,9 +30,7 @@
 - ⚡ Interested in web front-end development and back-end development.
 
 <h3>💻 Languages and Tools:</h3>
-
 <div align="center">
-
   <code
       ><img
            alt="HTML5-icon"
@@ -40,7 +38,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
            /></code>
-
   <code
       ><img
            alt="CSS3-icon"
@@ -48,7 +45,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
            /></code>
-
   <code
       ><img
            alt="javascript-icon"
@@ -56,7 +52,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
            /></code>
-
   <code
       ><img
            alt="typescript-icon"
@@ -64,7 +59,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
            /></code>
-
   <code
       ><img
            alt="nodejs-icon"
@@ -72,7 +66,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
            /></code>
-
   <code
       ><img
            alt="reactjs-icon"
@@ -80,7 +73,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
            /></code>
-
   <code
       ><img
            alt="linux-icon"
@@ -88,7 +80,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
            /></code>
-
   <code
       ><img
            alt="java-icon"
@@ -96,7 +87,6 @@
            width="25"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
            /></code>
-
   <code
       ><img
            alt="cpp-icon"
