@@ -96,18 +96,18 @@
            /></code>
   <div>
 
-    <h3>📈 My GitHub Stats:</h3>
-    <div align="center">
-      <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5"
-          />
-      <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
-          />
-    </div>
-    &nbsp;
-    <blockquote>
-      <p>"The roots of education are bitter, but the fruit is sweet." ~ Aristotle.</p>
-    </blockquote>
+  <h3>📈 My GitHub Stats:</h3>
+  <div align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5"
+        />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
+        />
+  </div>
+  &nbsp;
+  <blockquote>
+    <p>"The roots of education are bitter, but the fruit is sweet." ~ Aristotle.</p>
+  </blockquote>
