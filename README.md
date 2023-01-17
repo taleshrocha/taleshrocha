@@ -100,11 +100,11 @@
   <div align="center">
     <img
         height="180em"
-        src="https://github-taleshrocha.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook,makefile"
+        src="https://github-readme-stats-three-silk.vercel.app/api/top-langs/?username=taleshrocha&&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook,makefile"
         />
     <img
         height="180em"
-        src="https://github-taleshrocha.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
+        src="https://github-readme-stats-three-silk.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
         />
   </div>
   &nbsp;
