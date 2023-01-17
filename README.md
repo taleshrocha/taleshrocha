@@ -104,7 +104,7 @@
         />
     <img
         height="180em"
-        src="https://github-readme-readme-taleshrochaz-gmailcom.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
+        src="https://github-readme-taleshrochaz-gmailcom.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
         />
   </div>
   &nbsp;
