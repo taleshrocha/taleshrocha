@@ -107,7 +107,3 @@
         src="https://github-readme-stats-three-silk.vercel.app/api?username=taleshrocha&show_icons=true&theme=react"
         />
   </div>
-  &nbsp;
-  <blockquote>
-    <p>"The roots of education are bitter, but the fruit is sweet." ~ Aristotle.</p>
-  </blockquote>
