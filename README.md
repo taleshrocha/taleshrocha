@@ -24,7 +24,7 @@
     >&nbsp;&nbsp;
 </p>
 
-### Check out my <a href="https://portfolio-mu-two-24.vercel.app/">Portifolio</a>!
+### Check out my <a href="https://portfolio-mu-two-24.vercel.app/">Portfolio</a>!
 
 ### About me
 
