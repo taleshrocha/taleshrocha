@@ -24,6 +24,8 @@
     >&nbsp;&nbsp;
 </p>
 
+### Check out my <a href="https://portfolio-mu-two-24.vercel.app/">Portifolio</a>!
+
 ### About me
 
 - 🌱 I’m currently studying Computer Science at [IMD](https://www.ufrn.br/) and in [DIMAP](https://dimap.ufrn.br/).
